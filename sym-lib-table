@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "breadbat")(type "KiCad")(uri "${KIPRJMOD}/breadbat.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "breadbat")(type "KiCad")(uri "${KIPRJMOD}/breadbat.pretty")(options "")(descr ""))
+)
